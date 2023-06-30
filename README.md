@@ -12,6 +12,8 @@ Adjust output language and voice for desired output, two male and two female voi
 Translate button will translate input text to output language and transcribe
 Seperate speak buttons for replaying input or output text.
 
+Requires ElevenLabs API key
+
 Package requirements
 
 speech_recognition - pip install SpeechRecognition
