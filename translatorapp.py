@@ -8,8 +8,8 @@ import soundfile as sf #Audio processing
 import simpleaudio as sa #Audio playback
 from PyQt5 import QtCore, QtGui, QtWidgets #GUI
 
-# Set the API key for the translation service
-set_api_key("b84b0ec25287434619d3a7a8701542c6")
+# Eleven Labs API key
+set_api_key("ELEVENLABSAPIKEY")
 
 
 #Speech translation application
