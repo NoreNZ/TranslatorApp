@@ -1,6 +1,4 @@
-README
-
-Application is made using Windows packages, MAC OS devices require proper installation to work correctly.
+Application is made using Windows packages, MAC OS devices require alternate installation to work correctly.
 
 8 supported languages
 Start button to begin speech transcription, stop to end transcription
